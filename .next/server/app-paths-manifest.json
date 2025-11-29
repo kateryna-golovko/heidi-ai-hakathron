@@ -1,0 +1,8 @@
+{
+  "/api/sync/route": "app/api/sync/route.js",
+  "/emr/bestpractice/page": "app/emr/bestpractice/page.js",
+  "/api/heidi/route": "app/api/heidi/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/emr/meddirector/page": "app/emr/meddirector/page.js",
+  "/api/normalize/route": "app/api/normalize/route.js"
+}
